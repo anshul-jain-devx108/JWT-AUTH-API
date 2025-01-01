@@ -20,3 +20,4 @@ A scalable and high-throughput authentication API built with Node.js, MongoDB, a
 - **Postman** (for API testing)
 
 ---
+![image](https://github.com/user-attachments/assets/b9805f2d-fa4d-4a38-8c59-5a4db354977f)
